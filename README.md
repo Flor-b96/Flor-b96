@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  Flor!
+- 👋 Hola, soy  Flor!
 - 👀 Me desempeño como IT Recruiter
 
 <!---
